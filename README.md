@@ -1,5 +1,4 @@
 <!-- registry-sync: version=13.4.0; skills=1693; stars=41802; updated_at=2026-06-27T07:55:42+00:00 -->
-[![ai Awesome Skills hero](assets/aas-readme-hero.jpeg)](https://github.com/sickn33/ai-awesome-skills)
 
 # 🌌 ai Awesome Skills: 1,693+ Agentic Skills for Claude Code, ai CLI, Cursor, Copilot & More
 
